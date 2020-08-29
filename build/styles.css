@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 20px;
+  }
+  hr{
+    border-width:20px;
+  }
