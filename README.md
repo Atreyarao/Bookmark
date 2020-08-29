@@ -2,7 +2,7 @@
 
 About the Api:  
 1) Bookmark:  
-a) /addBookmark: It takes in 3 inputs Title,Link,Publisher.  
+a) /addBookmark: It takes in 3 inputs Title,Link,Publisher(optional) and creates a new entry in the database.(Title,Link are unique).      
 b) /deleteBookmark:It takes in Title as input and deletes that particular Bookmark  
 
 
